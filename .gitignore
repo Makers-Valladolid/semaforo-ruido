@@ -1,0 +1,21 @@
+# macOS system files
+.DS_Store
+**/.DS_Store
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build and dependency directories
+node_modules/
+build/
+dist/
+
+# Log files
+*.log
+
+# Environment files
+.env
+.env.local 
